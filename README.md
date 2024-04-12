@@ -1,0 +1,1 @@
+Um Gerador de senha, com um titulo em forma de imagem uma barra onde pode escolher quantos caracteres precisa(máximo 25) clicando no botão de gerar senha é escolhido uma senha aleatória determinada pela quantidade de caracteres que foi escolhido clicando na caixa de senha gerada automaticamente a senha é copiada e vem um aviso informando isso
